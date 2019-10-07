@@ -1,4 +1,7 @@
 # PPPS
-CS241-Principles and Practice of Problem Solvi
+CS241-Principles and Practice of Problem Solving  
 
-2019/9/14  Errors and Makefile
+AS1  Errors and Makefile  
+AS2  Polynomial division and interpolation  
+AS3  Bisection method and Newton's Method  
+AS4  Solving linear system  
